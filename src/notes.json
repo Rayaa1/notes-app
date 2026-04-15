@@ -8,5 +8,25 @@
     "id": 2,
     "title": "Ideas",
     "text": "Write down your ideas here."
+  },
+  {
+    "id": 3,
+    "title": "Shopping list",
+    "text": "Milk, eggs, bread, coffee."
+  },
+  {
+    "id": 4,
+    "title": "Frontend tasks",
+    "text": "Refactor components, improve UI spacing, add animations."
+  },
+  {
+    "id": 5,
+    "title": "Books to read",
+    "text": "Atomic Habits, Clean Code, The Pragmatic Programmer."
+  },
+  {
+    "id": 6,
+    "title": "Workout plan",
+    "text": "Monday: legs, Wednesday: push, Friday: pull."
   }
 ]
